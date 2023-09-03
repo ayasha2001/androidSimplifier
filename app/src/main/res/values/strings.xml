@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simplifier</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="submit">Submit</string>
+    <string name="history">History window</string>
+    <string name="eqn">Enter Equation</string>
+    <string name="header">History Tab</string>
+    <string name="heading">Simplify Equation</string>
+    <string name="info">Api supports add and subtract operators</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
